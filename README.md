@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mohabstudent
+- 👀 I’m interested in programming & Softwares
+- 🌱 I’m currently learning programming
+- 💞️ I’m looking to collaborate on Problem Solving
+- 📫 How to reach me codeprogramme2@gmail.com
